@@ -1,0 +1,3 @@
+﻿  winsplit.c
+C:\Users\Brodie Knight\source\repos\winsplit\winsplit\winsplit.c(68,20): warning C4018: '<': signed/unsigned mismatch
+  winsplit.vcxproj -> C:\Users\Brodie Knight\source\repos\winsplit\Debug\winsplit.exe

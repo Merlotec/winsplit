@@ -1,0 +1,7 @@
+﻿  winsplit.c
+C:\Users\Brodie Knight\source\repos\winsplit\winsplit\winsplit.c(68,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  winsplit.vcxproj -> C:\Users\Brodie Knight\source\repos\winsplit\Release\winsplit.exe
