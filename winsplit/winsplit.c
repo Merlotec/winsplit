@@ -1,12 +1,8 @@
-// winsplit.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 #include <Windows.h>
 
 #define DEF_SPLIT_COUNT 3
 #define MAX_WINDOWS 10
 
-// There seems to be an inexplicable gap between the windows even though the maths should add up to fill completely ???
-// Therefore extra pixels needed to correcly space out the windows.
 #define X_OFFSET 0
 #define Y_OFFSET 0
 
