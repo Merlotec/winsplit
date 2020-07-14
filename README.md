@@ -3,9 +3,9 @@ It seems that windows does not offer a simple way to evenly fill the monitor wit
 As most people know, dragging one window to the side of the screen allows you to perfectly fill your screen with 2 separate windows, each taking half the screen.
 While this is nice, people with ultra wide monitors will know that this doesn't go far enough. This is how Winsplit was born.
 
-The project is open source and the source code can be found here:
+The project is open source and the project files can be found here:
 * [Winsplit Source](https://github.com/Merlotec/winsplit/).
-* [Winsplit Executable](https://github.com/Merlotec/space_render/blob/master/shaders/src/atmosphere.frag.glsl).
+* [Winsplit Release](https://github.com/Merlotec/space_render/blob/master/shaders/src/atmosphere.frag.glsl).
 
 ### What is Winsplit
 Winsplit is a tool that allows you to split your desktop evenly into an arbitrary number of windows (3 by default). 
