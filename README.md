@@ -23,7 +23,7 @@ Winsplit orders the windows from right to left by their current 'layer/depth', g
 So, when performing a 3 way split, click on the windows in order of right fist, middle second, and left last.
 After doing this, simply run the winsplit application either by clicking on the taskbar icon, double clicking the .exe or launching it via the command line.
 
-### More that 3 Windows?
+### More than 3 Windows?
 
 To split the desktop into more than 3 windows, you must pass the number of divides you wish to make as the first command line argument when executing `winsplit.exe`. E.g. to the number of splits you wish to make. E.g. `winsplit.exe 5` would split the desktop into 5 windows. (Note, if there are less than the specified number of windows, winsplit will split the desktop into the number of windows available).
 
