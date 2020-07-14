@@ -15,7 +15,7 @@ Winsplit is programmed in pure C, the entire program consisting of only 124 line
 ### How to Use
 Winsplit is compiled into a standalone executable (.exe) which can be run from anywhere.
 There is no installer included, because there's basically nothing to install.
-*For ease of use, I would recommend pinning the application to your taskbar.*
+**For ease of use, I would recommend pinning the application to your taskbar.**
 You can do this by right-clicking `winsplit.exe` and clicking 'Pin to Taskbar'.
 
 Winsplit orders the windows from right to left by their current 'layer/depth', going from closest to farthest. This means, the most recent window you've clicked on will be on the left, the second most recent in the middle, and the third most recent on the right (for 3 way split). This is because as you click onto a new window, it has the new closest depth since it's at the front.
