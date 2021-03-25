@@ -5,7 +5,7 @@ While this is nice, people with ultra wide monitors will know that this doesn't 
 
 The project is open source and the project files can be found here:
 * [Winsplit Source](https://github.com/Merlotec/winsplit/).
-* [Winsplit Release](https://github.com/Merlotec/space_render/blob/master/shaders/src/atmosphere.frag.glsl).
+* [Winsplit Release](https://github.com/Merlotec/winsplit/releases/tag/v1.0).
 
 ### What is Winsplit
 Winsplit is a tool that allows you to split your desktop evenly into an arbitrary number of windows (3 by default). 
